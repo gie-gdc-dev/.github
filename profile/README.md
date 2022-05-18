@@ -1,0 +1,3 @@
+# GIE/GDC Dev
+
+On a fait des trucs, et on fera des trucs. Mais plus tard...
